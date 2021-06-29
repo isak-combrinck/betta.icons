@@ -2,7 +2,7 @@
 
 *A project by Isak Combrinck.*
 
-The repo for icons used by the Betta library for use as a git submodule.
+Icon repo of the Betta library for use as a git submodule.
 
 ## Version 0.0.1
 
