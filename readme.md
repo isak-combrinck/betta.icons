@@ -4,7 +4,7 @@
 
 Icon repo of the Betta library for use as a git submodule.
 
-## Version 0.0.1
+## Version Next
 
 The Betta library is currently under early development. Use in production at your own risk.
 
