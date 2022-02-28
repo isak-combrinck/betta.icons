@@ -12,7 +12,7 @@ The Betta library is currently under early development. Use in production at you
 
 We use the following open source libraries and are happy to provide you with a copy of their licenses.
 
-### [Material Design Icons]([github.com/necolas/normalize.css](https://github.com/google/material-design-icons))
+### [Material Design Icons](https://github.com/google/material-design-icons)
 
 ```
                                  Apache License
